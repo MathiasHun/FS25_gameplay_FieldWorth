@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+        <e k="FW_basePriceText" v=" (base price: %s)" tag="format"/>
+        <e k="FW_extraIncreasedText" v="Good maintenance increased the land value:"/>
+        <e k="FW_extraReducedText" v="Poor condition reduced the land value:"/>
+        <e k="FW_extraTotalText" v="Total effect: %+0.0f%%" tag="format"/>
+    </elements>
+</l10n>

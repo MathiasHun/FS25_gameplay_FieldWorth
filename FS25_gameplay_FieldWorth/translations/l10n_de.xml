@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+        <e k="FW_basePriceText" v=" (grundpreis: %s)" tag="format"/>
+        <e k="FW_extraIncreasedText" v="Gute Pflege hat den Wert des Grundstücks erhöht:"/>
+        <e k="FW_extraReducedText" v="Schlechter Zustand hat den Wert des Grundstücks verringert:"/>
+        <e k="FW_extraTotalText" v="Gesamteffekt: %+0.0f%%" tag="format"/>
+    </elements>
+</l10n>

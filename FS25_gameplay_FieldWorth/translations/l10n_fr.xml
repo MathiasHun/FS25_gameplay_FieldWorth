@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+        <e k="FW_basePriceText" v=" (prix de base : %s)" tag="format"/>
+        <e k="FW_extraIncreasedText" v="Un bon entretien a augmenté la valeur du terrain :"/>
+        <e k="FW_extraReducedText" v="Un mauvais état a réduit la valeur du terrain :"/>
+        <e k="FW_extraTotalText" v="Effet total : %+0.0f%%" tag="format"/>
+    </elements>
+</l10n>

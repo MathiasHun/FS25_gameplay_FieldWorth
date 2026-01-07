@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+        <e k="FW_basePriceText" v=" (alapár: %s)" tag="format"/>
+        <e k="FW_extraIncreasedText" v="A gondos művelés növelte a terület értékét:"/>
+        <e k="FW_extraReducedText" v="Az elhanyagolt állapot csökkentette a terület értékét:"/>
+        <e k="FW_extraTotalText" v="Összes hatás: %+0.0f%%" tag="format"/>
+    </elements>
+</l10n>
